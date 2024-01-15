@@ -14,6 +14,8 @@ Log in to your inferless account, select the workspace you want the model to be 
 
 Select the ONNX as the framework and choose File -> Local File as the import type. In the Step 3, give a suitable name for your model, select url and give the publicily accessible URL for your model.
 
+Use the below public link for the model  https://inferless-public.s3.amazonaws.com/model.zip
+
 Enter all the required details to Import your model. Refer [this link](https://docs.inferless.com/integrations/github-custom-code) for more information on model import.
 
 The following is a sample Input and Output JSON for this model which you can use while importing this model on Inferless.
